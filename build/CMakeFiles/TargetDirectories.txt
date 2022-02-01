@@ -1,0 +1,3 @@
+/mnt/f/Desktop/FP/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/Desktop/FP/build/CMakeFiles/edit_cache.dir
+/mnt/f/Desktop/FP/build/CMakeFiles/app.dir
